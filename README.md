@@ -10,7 +10,11 @@ The dataset used here are takesn from kaggle and is a little bit old and contain
 Here is the link to Datalore file where you can see the things happening in the code 
 -> https://datalore.jetbrains.com/notebook/0K4jEcqVddXgvqlZHp8TuX/XWrRAQqBrpFEkj94VLxygg/
 
-Some Picture of the data analysis:
+Some Picture of the data analysis and output:
 ![image](https://user-images.githubusercontent.com/84784218/177405806-034641e7-ffc9-4ed1-b1c7-a3c04c27f242.png)
 
 ![image](https://user-images.githubusercontent.com/84784218/177405937-15e3df8b-1c7d-4d75-81b1-c481daa666bb.png)
+
+![image](https://user-images.githubusercontent.com/84784218/177406116-21ebea63-9b9f-4959-a064-21f18dd4a1c6.png)
+
+![image](https://user-images.githubusercontent.com/84784218/177406229-92196cde-63fd-46cc-9e94-1c92345828df.png)

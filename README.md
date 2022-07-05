@@ -6,6 +6,7 @@ First few lines are EDA (Exploratory Data Analysis) to explore the data and clea
 Then we build the model first we try on Logistic Regression but the accuracy is low so we go with Random Forest Classifier.
 
 The dataset used here are takesn from kaggle and is a little bit old and contains teams that now dont play.
+You can also use Streamlit library to host it on server I have not used it here but you are most Welcome to do so also if you dont need stream delete the first pip install line and import stremlit sentence.
 
 Here is the link to Datalore file where you can see the things happening in the code 
 -> https://datalore.jetbrains.com/notebook/0K4jEcqVddXgvqlZHp8TuX/XWrRAQqBrpFEkj94VLxygg/
